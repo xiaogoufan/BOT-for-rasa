@@ -1,2 +1,2 @@
 # BOT-using-rasa
-A primitive bot for rasa
+A primitive bot using rasa
